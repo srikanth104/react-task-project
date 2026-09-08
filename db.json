@@ -1,0 +1,76 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Build Login Page",
+      "assignedTo": "john@example.com",
+      "status": "Open",
+      "priority": "High",
+      "startDate": "01Jan2026",
+      "endDate": ""
+    },
+    {
+      "id": "2",
+      "title": "Create Dashboard",
+      "assignedTo": "sarah@example.com",
+      "status": "In-Progress",
+      "priority": "Medium",
+      "startDate": "05Jan2026",
+      "endDate": ""
+    },
+    {
+      "id": "3",
+      "title": "API Integration",
+      "assignedTo": "mike@example.com",
+      "status": "Under-review",
+      "priority": "High",
+      "startDate": "10Jan2026",
+      "endDate": ""
+    },
+    {
+      "id": "4",
+      "title": "Testing",
+      "assignedTo": "alex@example.com",
+      "status": "Done",
+      "priority": "Low",
+      "startDate": "15Jan2026",
+      "endDate": "22Jan2026"
+    },
+    {
+      "id": "5",
+      "title": "User Registration",
+      "assignedTo": "john@example.com",
+      "status": "Open",
+      "priority": "Medium",
+      "startDate": "20Jan2026",
+      "endDate": ""
+    },
+    {
+      "id": "6",
+      "title": "Profile Page",
+      "assignedTo": "sarah@example.com",
+      "status": "In-Progress",
+      "priority": "Low",
+      "startDate": "25Jan2026",
+      "endDate": ""
+    },
+    {
+      "id": "7",
+      "title": "Payment Integration",
+      "assignedTo": "mike@example.com",
+      "status": "Under-review",
+      "priority": "High",
+      "startDate": "01Feb2026",
+      "endDate": ""
+    },
+    {
+      "id": "8",
+      "title": "Deployment Testing",
+      "assignedTo": "alex@example.com",
+      "status": "Done",
+      "priority": "Medium",
+      "startDate": "05Feb2026",
+      "endDate": "10Feb2026"
+    }
+  ]
+}
